@@ -1,18 +1,16 @@
-Automatic Plant Watering System using Arduino
-Meet Sprouter – the modern indoor planter that automatically waters your plants, herbs, and vegetables, revolutionizing your gardening experience.
+# Automatic Plant Watering System using Arduino
+Meet Sprouter - the Modern Indoor Planter which automatically waters your plants, herbs, vegetables, etc and will revolutionize your gardening game.
 
-How It Works
+ How It Works :
 Sprouter has an integrated water reservoir that pumps water to keep the soil hydrated. A soil moisture sensor periodically measures soil moisture levels, regulating the water flow. If the soil is too dry, the water pump automatically switches ON and turns OFF once the desired moisture level is reached.
 
 If you tend to underwater your plants, Sprouter ensures they get just the right amount of water. If you overwater to compensate for neglect, it prevents drowning your plants or seeds.
 
 Sprouter’s water reservoir holds around 500 ml (17 fl oz), allowing you to neglect your plants for up to a month before refilling.
+![](https://content.instructables.com/FB2/WUZG/JCAUIIAK/FB2WUZGJCAUIIAK.jpg?auto=webp&fit=bounds&frame=1&height=1024&width=1024)
 
+The optional Bluetooth feature can be used to manually toggle & control the water pump wirelessly from your smartphone.
 
-
-The optional Bluetooth feature allows manual control of the water pump via a smartphone app.
-
-Electronic Design
 
 
 Components Required:
@@ -55,4 +53,3 @@ Scan for discoverable devices and pair with HC-05.
 Click on ‘Switch Mode’ and toggle the button to control the pump wirelessly.
 Download the app here:
 Bluetooth Serial Monitor
-
